@@ -1,4 +1,4 @@
-# MISJustice Alliance
+![MISJustice Logo](https://raw.githubusercontent.com/MISJustice-Alliance/.github/main/profile/misjustice_logo_light_mode-small-no-bg.png)
 
 ## Anonymous Legal Assistance Group
 
