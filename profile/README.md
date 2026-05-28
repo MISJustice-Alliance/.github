@@ -10,7 +10,7 @@ The organization is founded on **decentralized immutable systems** that provide 
 
 ---
 
-## 🏛️ Featured Project: Codified Organization Structure
+## 🏛️ Featured Project: [Codified Organization Structure](https://github.com/MISJustice-Alliance/misjustice-alliance-firm)
 
 Our flagship initiative is the **codified organization structure**—a comprehensive specification that defines the principles, intent, and guardrails of MISJustice Alliance as a virtual legal research and advocacy firm.
 
