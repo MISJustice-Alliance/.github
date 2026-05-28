@@ -68,4 +68,13 @@ Strict anonymity is fundamental to our mission. We maintain complete confidentia
 
 ---
 
+## ⚖️ Legal Disclaimer
+
+- Follow all **Verify first** links before relying on any claim or number.
+- Documentation compiled for **legal advocacy**, **civil-rights accountability**, and **investigative review**.
+- We are **not a replacement for formal legal representation**.
+- Any unredacted victim PII is either pulled from the **public record** or released with their **express permission**.
+
+---
+
 *"No individual stands alone against institutional abuse of power."*
