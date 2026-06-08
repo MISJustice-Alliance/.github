@@ -63,7 +63,7 @@ Strict anonymity is fundamental to our mission. We maintain complete confidentia
 ## 🌐 Resources
 
 - Website: [misjusticealliance.org](https://misjusticealliance.org)
-- Case Documentation: [wvcaofmissoula.com](https://wvcaofmissoula.com)
+- Case Documentation: [www.ywcaofmissoula.com](https://www.ywcaofmissoula.com)
 - Contact: [contact@misjusticealliance.org](mailto:contact@misjusticealliance.org)
 
 ---
